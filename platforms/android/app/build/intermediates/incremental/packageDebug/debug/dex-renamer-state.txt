@@ -1,0 +1,4 @@
+#Thu Oct 25 13:36:47 BST 2018
+base.0=C\:\\Users\\SETA1_17\\tesapp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\SETA1_17\\tesapp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
